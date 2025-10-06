@@ -1,0 +1,1 @@
+LiberBot is a Cartesian library assistant robot that automates book search and management tasks. Powered by Arduino Uno and stepper motors via a CNC shield, it moves precisely along X, Y, and Z axes. With an LED display and button controls, it offers an affordable, simple, and reliable automation solution for libraries.
